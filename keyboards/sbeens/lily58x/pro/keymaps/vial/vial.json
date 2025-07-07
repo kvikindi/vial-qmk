@@ -6,6 +6,7 @@
     "rows": 10,
     "cols": 6
   },
+  "lighting": "vialrgb",
   "keycodes": ["qmk_lighting"],
   "menus": [
     {
